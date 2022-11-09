@@ -23,7 +23,7 @@
   <a href="https://instagram.com/rafaballerini" target="_blank"><img align="center" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=whit" target="_blank"></a>
  <a href="https://discord.gg/wagxzStdcR" target="_blank"><img align="center" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "marcellyp120@gmail.com"><img  align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/feed/" target="_blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/feed/" target="_blank"><img align="center" src="file:///C:/Users/usuario/Downloads/Marcelly.jfif" target="_blank"></a> 
   
   ![snake gif](https://github.com/MarcellyP/MarcellyP/blob/output/github-contribution-grid-snake.svg)
   
