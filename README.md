@@ -1,5 +1,5 @@
 <h3 align="center">
-  Olá! Eu sou a Marcelly Pereira, Estudante de Programação.
+  Olá! Eu sou a Marcelly Pereira, Desenvolvedora Front-end.
 </h3>
 
 <p align="center">
