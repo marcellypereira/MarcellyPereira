@@ -1,17 +1,19 @@
 <img align="right" src="https://github.com/GisellyPereira/GisellyPereira/assets/116305443/38458bc2-5d1e-453f-83fb-7ccbbdf7ed92" width="380"  />
 
 
-### Olá, eu sou Giselly 👋
+### Olá, eu sou Marcelly 👋
  
- [![Twitter Badge](https://img.shields.io/badge/-@gisellyy_ap-C8325E?style=flat-square&labelColor=C8325E&logo=twitter&logoColor=white&link=https://twitter.com/marcellyAp_)](https://twitter.com/marcellyAp_) 
-[![Linkedin Badge](https://img.shields.io/badge/-Giselly%20Pereira-C8325E?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marcelly-pereira/)](https://www.linkedin.com/in/marcelly-pereira/)
+ [![Twitter Badge](https://img.shields.io/badge/-@marcellyAp_-4B0082?style=flat-square&labelColor=4B0082&logo=twitter&logoColor=white&link=https://twitter.com/marcellyAp_)](https://twitter.com/marcellyAp_)
+
+[![Linkedin Badge](https://img.shields.io/badge/-marcelly-pereira/-4B0082?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marcelly-pereira/)](https://www.linkedin.com/in/marcelly-pereira/)
+
 
 Sou uma profissional dedicada ao desenvolvimento de interfaces visuais para aplicações digitais, com um verdadeiro amor por criar experiências online surpreendentes. Nos últimos anos, tenho me concentrado em aprimorar minhas habilidades em engenharia de software e programação, com um enfoque especial no desenvolvimento de aplicativos para a web.
 
 Estou sempre ansiosa para aprender e buscar soluções inovadoras. Tenho um constante interesse em me atualizar sobre tecnologias que proporcionam uma experiência mais agradável e envolvente para os usuários. Atualmente, estou baseada em São Luís, no estado do Maranhão, Brasil.
 
-- 📫  Como entrar em contato comigo: marcellyp120@gmail.com
-- ♟️Curiosidade: Nas horas vagas gosto de jogar xadrez
+- 📫 Como me contatar: marcellyp120@gmail.com ou LinkedIn @marcelly-pereira.
+- ♟️ Curiosidade: Nas horas vagas gosto de jogar xadrez.
 
 
  **Tecnologias:**
