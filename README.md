@@ -1,15 +1,15 @@
 <img align="right" src="https://github.com/MarcellyP/MarcellyP/assets/116754560/4bc94171-255b-4130-bfd9-290d763859e2" width="380"  />
 
-### Olá, eu sou Marcelly 👋 
+### Hi, I'm Marcelly 👋 
  [![Twitter Badge](https://img.shields.io/badge/-@marcellyAp_-4B0082?style=flat-square&labelColor=4B0082&logo=twitter&logoColor=white&link=https://twitter.com/marcellyAp_)](https://twitter.com/marcellyAp_) [![Linkedin Badge](https://img.shields.io/badge/-Marcelly%20Pereira-4B0082?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marcelly-pereira/)](https://www.linkedin.com/in/marcelly-pereira/)
 
 
-Sou uma profissional dedicada ao desenvolvimento de interfaces visuais para aplicações digitais, com um verdadeiro amor por criar experiências online surpreendentes. Nos últimos anos, tenho me concentrado em aprimorar minhas habilidades em engenharia de software e programação, com um enfoque especial no desenvolvimento de aplicativos para a web.
+I'm a professional dedicated to the development of visual interfaces for digital applications, with a true love for creating amazing online experiences. For the past few years, I've been focusing on improving my skills in software engineering and programming, with a special focus on web application development.
 
-Estou sempre ansiosa para aprender e buscar soluções inovadoras. Tenho um constante interesse em me atualizar sobre tecnologias que proporcionam uma experiência mais agradável e envolvente para os usuários. Atualmente, estou baseada em São Luís, no estado do Maranhão, Brasil.
+I am always eager to learn and look for innovative solutions. I have a constant interest in updating myself on technologies that provide a more enjoyable and engaging experience for users. I am currently based in São Luís, in the state of Maranhão, Brazil.
 
-- 📫 Como me contatar: marcellyp120@gmail.com
-- ♟️ Curiosidade: Nas horas vagas gosto de jogar xadrez.
+- 📫 How to contact me: marcellyp120@gmail.com
+- ♟️ Curiosity: In my spare time I like to play chess.
 
 
  **Tecnologias:**
@@ -22,7 +22,7 @@ Estou sempre ansiosa para aprender e buscar soluções inovadoras. Tenho um cons
  </p>
  
  
- "A sabedoria não é um produto da escolaridade, mas da tentativa ao longo da vida de adquiri-la." - Albert Einstein
+"Wisdom is not a product of schooling, but of the lifelong attempt to acquire it." - Albert Einstein
    
 
    
