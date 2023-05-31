@@ -8,7 +8,7 @@ Sou uma profissional dedicada ao desenvolvimento de interfaces visuais para apli
 
 Estou sempre ansiosa para aprender e buscar soluções inovadoras. Tenho um constante interesse em me atualizar sobre tecnologias que proporcionam uma experiência mais agradável e envolvente para os usuários. Atualmente, estou baseada em São Luís, no estado do Maranhão, Brasil.
 
-- 📫 Como me contatar: marcellyp120@gmail.com ou LinkedIn @marcelly-pereira.
+- 📫 Como me contatar: marcellyp120@gmail.com
 - ♟️ Curiosidade: Nas horas vagas gosto de jogar xadrez.
 
 
