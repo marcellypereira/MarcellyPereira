@@ -29,5 +29,5 @@ Estou sempre ansiosa para aprender e buscar soluções inovadoras. Tenho um cons
   
 ##
 
-![snake gif](https://github.com/GisellyPereira/GisellyPereira/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/MarcellyP/MarcellyP/blob/output/github-contribution-grid-snake.svg)
   
