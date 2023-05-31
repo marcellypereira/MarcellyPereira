@@ -1,4 +1,4 @@
-<img align="right" src="https://github.com/GisellyPereira/GisellyPereira/assets/116305443/38458bc2-5d1e-453f-83fb-7ccbbdf7ed92" width="380"  />
+<img align="right" src="https://github.com/MarcellyP/MarcellyP/assets/116754560/4bc94171-255b-4130-bfd9-290d763859e2" width="380"  />
 
 ### Olá, eu sou Marcelly 👋 
  [![Twitter Badge](https://img.shields.io/badge/-@marcellyAp_-4B0082?style=flat-square&labelColor=4B0082&logo=twitter&logoColor=white&link=https://twitter.com/marcellyAp_)](https://twitter.com/marcellyAp_) [![Linkedin Badge](https://img.shields.io/badge/-Marcelly%20Pereira-4B0082?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marcelly-pereira/)](https://www.linkedin.com/in/marcelly-pereira/)
