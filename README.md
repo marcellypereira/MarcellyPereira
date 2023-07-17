@@ -16,7 +16,7 @@ I am always eager to learn and look for innovative solutions. I have a constant 
 <p align="left">
   <code><img src="https://user-images.githubusercontent.com/51785898/91357834-3eb8df00-e7c8-11ea-9936-0ce666ac2a11.png" alt="JS" width="38" height="38"/></code>&nbsp;
   <code><img src="https://user-images.githubusercontent.com/51785898/91357843-411b3900-e7c8-11ea-8161-3e8191a6cde2.png" alt="React.js" width="45" height="38"/></code>&nbsp;
-  <code><img src="http://abneroliveira.eti.br/wp-content/uploads/2020/01/nodejs-logo-png-node-js-development-296.png" alt="Node.js" width="38" height="38"/></code>&nbsp; 
+    <code><img src="https://assets-global.website-files.com/5d9bc5d562ffc2869b470941/5e1f9804b36ff7196d4b72a0_logo-react-native-tech.png" alt="React-Native" width="40" height="35" /></code>&nbsp;
   <code><img src="https://user-images.githubusercontent.com/51785898/91358353-0cf44800-e7c9-11ea-9a54-0a988aa2837c.png" alt="Github" width="38" height="38"/></code>&nbsp;
   <code><img src="https://user-images.githubusercontent.com/51785898/91358426-3319e800-e7c9-11ea-9df0-b5a207cecfce.png" alt="Typescript" width="38" height="38"/></code>&nbsp;
  </p>
