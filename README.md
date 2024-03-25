@@ -1,15 +1,15 @@
 <img align="right" src="https://github.com/MarcellyP/MarcellyP/assets/116754560/4bc94171-255b-4130-bfd9-290d763859e2" width="380"  />
 
-### Hi, I'm Marcelly 👋 
+### Olá, sou a Marcelly 👋 
  [![Twitter Badge](https://img.shields.io/badge/-@marcellyAp_-4B0082?style=flat-square&labelColor=4B0082&logo=twitter&logoColor=white&link=https://twitter.com/marcellyAp_)](https://twitter.com/marcellyAp_) [![Linkedin Badge](https://img.shields.io/badge/-Marcelly%20Pereira-4B0082?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marcelly-pereira/)](https://www.linkedin.com/in/marcelly-pereira/)
 
 
-I'm a professional dedicated to the development of visual interfaces for digital applications, with a true love for creating amazing online experiences. For the past few years, I've been focusing on improving my skills in software engineering and programming, with a special focus on web application development.
+Sou uma desenvolvedora dedicada ao desenvolvimento de sistemas e aplicatvos, com uma verdadeira paixão pela criação de experiências online fantásticas. Nos últimos anos, tenho focado em melhorar as minhas competências em desenvolvimento front-end.
 
-I am always eager to learn and look for innovative solutions. I have a constant interest in updating myself on technologies that provide a more enjoyable and engaging experience for users. I am currently based in São Luís, in the state of Maranhão, Brazil.
+Tenho sempre vontade de aprender e de procurar soluções inovadoras. Tenho um interesse constante em atualizar-me sobre tecnologias que proporcionem uma experiência mais agradável e envolvente para os utilizadores. Atualmente, estou baseado em São Luís, no estado do Maranhão, Brasil.
 
-- 📫 How to contact me: marcellyp120@gmail.com
-- ♟️ Curiosity: In my spare time I like to play chess.
+- 📫 Entrar em contato: marcellyp120@gmail.com
+- ♟️ Curiosidade: Nas horas vagas gosto de jogar xadrez.
 
 
  **Tecnologias:**
@@ -23,5 +23,4 @@ I am always eager to learn and look for innovative solutions. I have a constant 
  </p>
  
  
-"Wisdom is not a product of schooling, but of the lifelong attempt to acquire it." - Albert Einstein
-  
+“A sabedoria não é um produto da escolaridade, mas da tentativa ao longo da vida de adquiri-la.” - Albert Einstein  
