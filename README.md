@@ -1,4 +1,4 @@
-<img align="right" src="https://github.com/MarcellyP/MarcellyP/assets/116754560/4bc94171-255b-4130-bfd9-290d763859e2" width="380"  />
+<img align="right" src="https://github.com/user-attachments/assets/94930aaa-dfd8-4d4a-b700-ac9e16959528" width="380"  />
 
 ### Olá, sou a Marcelly 👋 
  [![Twitter Badge](https://img.shields.io/badge/-@marcellyAp_-4B0082?style=flat-square&labelColor=4B0082&logo=twitter&logoColor=white&link=https://twitter.com/marcellyAp_)](https://twitter.com/marcellyAp_) [![Linkedin Badge](https://img.shields.io/badge/-Marcelly%20Pereira-4B0082?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marcelly-pereira/)](https://www.linkedin.com/in/marcelly-pereira/)
@@ -18,6 +18,7 @@ Tenho sempre vontade de aprender e de procurar soluções inovadoras. Tenho um i
   <code><img src="https://user-images.githubusercontent.com/51785898/91357843-411b3900-e7c8-11ea-8161-3e8191a6cde2.png" alt="React.js" width="45" height="38"/></code>&nbsp;
    <code><img src="https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_f0b606abb6d19089febc9faeeba5bc05/nodejs-development-services.png" alt="Node.js" width="38" height="38"/></code>&nbsp;
     <code><img src="https://assets-global.website-files.com/5d9bc5d562ffc2869b470941/5e1f9804b36ff7196d4b72a0_logo-react-native-tech.png" alt="React-Native" width="40" height="35" /></code>&nbsp;
+
   <code><img src="https://user-images.githubusercontent.com/51785898/91358353-0cf44800-e7c9-11ea-9a54-0a988aa2837c.png" alt="Github" width="38" height="38"/></code>&nbsp;
   <code><img src="https://user-images.githubusercontent.com/51785898/91358426-3319e800-e7c9-11ea-9df0-b5a207cecfce.png" alt="Typescript" width="38" height="38"/></code>&nbsp;
  </p>
