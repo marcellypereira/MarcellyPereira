@@ -1,4 +1,4 @@
-<img align="right" src="https://github.com/user-attachments/assets/94930aaa-dfd8-4d4a-b700-ac9e16959528" width="380"  />
+<img align="right" src="https://github.com/user-attachments/assets/fd3aa652-f0ba-48ca-ad2e-acedcdde197a" width="380"  />
 
 ### Olá, sou a Marcelly 👋 
  [![Twitter Badge](https://img.shields.io/badge/-@marcellyAp_-4B0082?style=flat-square&labelColor=4B0082&logo=twitter&logoColor=white&link=https://twitter.com/marcellyAp_)](https://twitter.com/marcellyAp_) [![Linkedin Badge](https://img.shields.io/badge/-Marcelly%20Pereira-4B0082?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marcelly-pereira/)](https://www.linkedin.com/in/marcelly-pereira/)
@@ -25,3 +25,4 @@ Tenho sempre vontade de aprender e de procurar soluções inovadoras. Tenho um i
  
  
 “A sabedoria não é um produto da escolaridade, mas da tentativa ao longo da vida de adquiri-la.” - Albert Einstein  
+
