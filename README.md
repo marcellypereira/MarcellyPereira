@@ -13,7 +13,7 @@
 
 ### 🛠️ Pilha de tecnologia:
 
-- **Linguagens:** JavaScript, TypeScript, NodeJs  
+- **Linguagens:** JavaScript, TypeScript  
 - **Frameworks/Libraries:** React, React Native, Vite, React-Query, Zustand, Zod, Redux, Context API, Shadcn  
 - **Estilização:** HTML5, CSS3, SCSS, Styled Components, Tailwind CSS, Bootstrap, Material-UI  
 - **Integração:** RESTful APIs  
